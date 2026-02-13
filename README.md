@@ -182,7 +182,7 @@ La documentation HTML sera générée dans `doc/html/`. Ouvrir `doc/html/index.h
 
 ## 📊 Statistiques du Projet
 
-- **Lignes de code** : ~1590 lignes (fichiers .c)
+- **Lignes de code** : ~1 590 lignes (fichiers .c)
 - **Modules** : 8 modules principaux
 - **Structures de données** : 10+ structures personnalisées
 - **Fonctions** : 50+ fonctions documentées
@@ -210,7 +210,7 @@ Ce projet a été développé dans le cadre d'un cours de programmation en C, d�
 4. **Extensibilité** : Structure permettant l'ajout facile de nouveaux éléments ou types de vagues
 5. **Documentation** : Code commenté et documentation Doxygen complète
 
-## 📝 License
+## 📝 Licence
 
 Ce projet a été créé à des fins éducatives.
 
