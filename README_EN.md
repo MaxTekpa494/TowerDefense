@@ -145,12 +145,12 @@ Monsters can be affected by various effects:
 
 ### Launch the Game
 ```bash
-bin/./tower
+./bin/tower
 ```
 
 ### Display Help
 ```bash
-bin/./tower -h
+./bin/tower -h
 ```
 
 ### Generate Documentation

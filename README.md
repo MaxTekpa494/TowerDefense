@@ -145,12 +145,12 @@ Les monstres peuvent être affectés par divers effets :
 
 ### Lancer le Jeu
 ```bash
-bin/./tower
+./bin/tower
 ```
 
 ### Afficher l'Aide
 ```bash
-bin/./tower -h
+./bin/tower -h
 ```
 
 ### Générer la Documentation
